@@ -248,7 +248,7 @@ I want to contribute as much as I can to the project. By the end of the Summer, 
 
 `What makes you suited to carry the project?`
 
-I have a lot of experience with Python, Web Scraping and building Web Applications using Flask. This skills would be required in expanding the project which makes me suited for the project. I've also previously contributed to it and understand all underlying modules
+I have a lot of experience with Python, Web Scraping and building Web Applications using Flask. I would be suited for this project since these skills would be essential in expanding the project. I've also previously contributed to it and understand all underlying modules.
 
 `If you have chosen an idea from our list, why did you choose this specific idea?`
 
