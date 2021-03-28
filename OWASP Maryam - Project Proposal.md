@@ -241,6 +241,11 @@ for kw in keywords:
 </p>
 <p align="center"><i>Fig 4. Web Interface using Semantic UI and amcharts</i></p>
 
+
+`What makes you suited to carry the project?`
+
+
+
 ### Timeline (tentative)
 
 I plan to invest 4-5 hours everyday during the coding period, I also intend to interact and discuss ideas during the Community bonding period for a few hours everyday.
