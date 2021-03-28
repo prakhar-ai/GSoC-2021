@@ -242,6 +242,9 @@ for kw in keywords:
 <p align="center"><i>Fig 4. Web Interface using Semantic UI and amcharts</i></p>
 
 ### SAT Questions
+`What do you want to achieve?`
+
+I want to contribute as much as I can to the project. By the end of the Summer, I intend to have added all necessary modules and a fully functioning Web Interface to the project.
 
 `What makes you suited to carry the project?`
 
@@ -254,6 +257,10 @@ I've always found OSINT projects very interesting and I chose this project since
 `How much time do you plan to invest in the project before, during and after the Summer of Code?`
 
 I plan to invest 4-5 hours everyday during the coding period. I will also interact and discuss ideas during the Community bonding period for a few hours everyday. I intend to continue contributing to the project after Summer of Code, since I'm truly passionate about it.
+
+`Please provide a schedule of how this time will be spent on subtasks of the project. While this is only preliminary, you will be required to provide a detailed plan latest at the beginning of GSoC and during the project you will issue weekly progress reports against that plan.`
+
+A detailed Timeline for my Proposal is provided below.
 
 ### Timeline (tentative)
 
