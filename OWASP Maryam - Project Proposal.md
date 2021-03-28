@@ -251,10 +251,13 @@ I have a lot of experience with Python, Web Scraping and building Web Applicatio
 
 I've always found OSINT projects very interesting and I chose this project since I believe that I perfectly match the requirements for the project.
 
+`How much time do you plan to invest in the project before, during and after the Summer of Code?`
+
+I plan to invest 4-5 hours everyday during the coding period. I will also interact and discuss ideas during the Community bonding period for a few hours everyday. I intend to continue contributing to the project after Summer of Code, since I'm truly passionate about it.
 
 ### Timeline (tentative)
 
-I plan to invest 4-5 hours everyday during the coding period, I also intend to interact and discuss ideas during the Community bonding period for a few hours everyday.
+
 
 *Through the coding period, emphasis is on creating well documented and tested
 code. For this, one may commit frequently (with verbose messages), follow
