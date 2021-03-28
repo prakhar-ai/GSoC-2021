@@ -241,9 +241,16 @@ for kw in keywords:
 </p>
 <p align="center"><i>Fig 4. Web Interface using Semantic UI and amcharts</i></p>
 
+### SAT Questions
 
 `What makes you suited to carry the project?`
 
+I have a lot of experience with Python, Web Scraping and building Web Applications using Flask. I believe that I am perfect for this project since these are the 
+skills that would be required in the projevt
+
+`If you have chosen an idea from our list, why did you choose this specific idea?`
+
+I've always found OSINT projects very interesting and I chose this project since I believe that I perfectly match the requirements for the project.
 
 
 ### Timeline (tentative)
