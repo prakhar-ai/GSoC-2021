@@ -245,8 +245,7 @@ for kw in keywords:
 
 `What makes you suited to carry the project?`
 
-I have a lot of experience with Python, Web Scraping and building Web Applications using Flask. I believe that I am perfect for this project since these are the 
-skills that would be required in the projevt
+I have a lot of experience with Python, Web Scraping and building Web Applications using Flask. This skills would be required in expanding the project which makes me suited for the project. I've also previously contributed to it and understand all underlying modules
 
 `If you have chosen an idea from our list, why did you choose this specific idea?`
 
