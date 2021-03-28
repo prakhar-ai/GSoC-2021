@@ -243,6 +243,8 @@ for kw in keywords:
 
 ### Timeline (tentative)
 
+I plan to invest 4-5 hours everyday during the coding period, I also intend to interact and discuss ideas during the Community bonding period for a few hours everyday.
+
 *Through the coding period, emphasis is on creating well documented and tested
 code. For this, one may commit frequently (with verbose messages), follow
 a test-driven development style and use continuous integration services.*
