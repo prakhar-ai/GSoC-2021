@@ -49,7 +49,7 @@ I'm a Python Developer and use it to develop most of my [projects](https://githu
 
 I've always found OSINT projects very interesting and I chose this project since I believe that I perfectly match the requirements for the project. I have a development environment set up for the project and have studied all the modules in detail. I have also contributed to it leading up to the Application Period.
 
-## My Project
+## My Proposal
 
 ### Current State
 <p align="center">
