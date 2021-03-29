@@ -1,6 +1,6 @@
 # OWASP Maryam - Project Proposal
 
-**This proposal is a draft and I would be grateful if you leave feedback by raising an issue in this repository.**
+*This proposal is a draft and I would be grateful if you leave feedback by raising an issue in this repository.*
 
 ## Personal information
 
